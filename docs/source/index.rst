@@ -1,22 +1,26 @@
-Welcome to Lumache's documentation!
-===================================
+=============================
+Portsmouth Recycling App
+=============================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Welcome to the Portsmouth Recycling App's documentation!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This application is designed to help residents of Portsmouth improve their recycling habits. Here you'll find information on how to install and use the app, as well as answers to frequently asked questions.
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+Contents:
+========
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
-   api
+   introduction
+   installation_guide
+   user_guide
+   faq
+   contributing
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
